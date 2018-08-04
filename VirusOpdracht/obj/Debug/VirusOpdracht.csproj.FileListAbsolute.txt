@@ -1,0 +1,10 @@
+C:\Users\rishi\Source\Repos\VirusOpdracht\VirusOpdracht\VirusOpdracht\bin\Debug\VirusOpdracht.exe.config
+C:\Users\rishi\Source\Repos\VirusOpdracht\VirusOpdracht\VirusOpdracht\bin\Debug\VirusOpdracht.exe
+C:\Users\rishi\Source\Repos\VirusOpdracht\VirusOpdracht\VirusOpdracht\bin\Debug\VirusOpdracht.pdb
+C:\Users\rishi\Source\Repos\VirusOpdracht\VirusOpdracht\VirusOpdracht\obj\Debug\VirusOpdracht.Properties.Resources.resources
+C:\Users\rishi\Source\Repos\VirusOpdracht\VirusOpdracht\VirusOpdracht\obj\Debug\VirusOpdracht.csproj.GenerateResource.Cache
+C:\Users\rishi\Source\Repos\VirusOpdracht\VirusOpdracht\VirusOpdracht\obj\Debug\VirusOpdracht.csproj.CoreCompileInputs.cache
+C:\Users\rishi\Source\Repos\VirusOpdracht\VirusOpdracht\VirusOpdracht\obj\Debug\VirusOpdracht.exe
+C:\Users\rishi\Source\Repos\VirusOpdracht\VirusOpdracht\VirusOpdracht\obj\Debug\VirusOpdracht.pdb
+C:\Users\rishi\source\repos\VirusOpdracht\VirusOpdracht\VirusOpdracht\obj\Debug\VirusOpdracht.csprojResolveAssemblyReference.cache
+C:\Users\rishi\source\repos\VirusOpdracht\VirusOpdracht\VirusOpdracht\obj\Debug\VirusOpdracht.Speelveld.resources
